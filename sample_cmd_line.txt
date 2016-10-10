@@ -1,0 +1,1 @@
+java -jar target/java-utils-0.0.1-rc1.jar -t sample_msg.txt sender@example.com "Mr. Sender" "Sample Message" rcpt1@example.com
