@@ -1,6 +1,0 @@
-{
-  "name": "Java-utils",
-  "tagline": "",
-  "body": "# Java Utils #\r\n\r\nJust a place to put things that can be useful for other things...\r\n\r\n## Contents: ##\r\n\r\n* [SMTP utilities.](MAIL.md)\r\n\r\n## Requirements ##\r\nIt uses java JDK 8.\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
