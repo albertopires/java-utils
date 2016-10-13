@@ -27,5 +27,5 @@ To create an email, create an instance of **GenerictProperties** and set the fol
 
 An example of how to run the Example class:
 
-``java -cp ./target/java-utils-0.0.1-rc1.jar io.github.albertopires.mail.Example
+``java -cp ./target/java-utils-0.0.1.jar io.github.albertopires.mail.Example
  -m ./sample_msg.txt any_file.png someone@example.com "Mr. SomeOne" rcpt@anotherdomain.com``
