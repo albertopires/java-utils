@@ -4,7 +4,7 @@ Just a place to put things that can be useful for other things...
 
 ## Contents: ##
 
-* [SMTP utilities.](MAIL.md)
+* [SMTP utilities.](mail.html)
 
 ## Maven ##
 Include in your pom:
