@@ -1,0 +1,8 @@
+#highlighter: rouge
+
+name: Alberto Pires
+markdown: kramdown
+kramdown:
+    input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+    syntax_highlighter: rouge
+
